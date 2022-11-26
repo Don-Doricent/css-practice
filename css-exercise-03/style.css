@@ -1,8 +1,9 @@
-.button#first {
+.first {
     background-color: black;
+    color: white;
 }
 
-.button#second {
+.second {
     background-color: yellow;
 }
 
